@@ -1,0 +1,1535 @@
+fileFormatVersion: 2
+guid: c90e8ec3a0c8aa649a6e2613fe58e784
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2782c5505b23ecc4fa4175d73d5e3af3
+      internalID: -63120001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b01f1861c43af543b7df1d6e007acf6
+      internalID: -2011743388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbde338cd7db24f4da16c78e7435288a
+      internalID: 1224211607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dc9f57b6174564aa9e0997a2fd30b2
+      internalID: 1026658219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc061da98ac7e34eb408f6e5e88191a
+      internalID: -367182936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef42ede009ae3a408319b8bd234d3be
+      internalID: 2102098969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234092e250df9cb4391ebd3deffe8cdf
+      internalID: -1804710930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71698a4eb1261b4fb932a15aa5778b4
+      internalID: -1508545427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ca913f2fdb8d4abcdec5c4a2dbdb9
+      internalID: -377159467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b400d31cf09754ab226cc638498b53
+      internalID: 773859972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdfa4c4972ea124b92a717f69d5f7d3
+      internalID: -262783819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e849eea9187d877428d2ee8b1b941323
+      internalID: 1951402372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83339757e71ef1744acb505124159626
+      internalID: -910182656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73ef47f1e54b9d46acf8790d6e38e70
+      internalID: 1572896945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c10db680ed6641438194d20a1e6c541
+      internalID: 836805142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee5d3feb7627544dbfea9d2443164c8
+      internalID: 1662195997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aa7f61624871941bf2dbcf9b5d4d7b
+      internalID: 1733178452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e70728f5729e7d47beb19413822ef3d
+      internalID: -12286703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e288711ad371249a9719c76faf784b
+      internalID: 1704605741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc5e65b60078d446be2bc49554c5b39
+      internalID: 1265677770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b94a470771d8774d9861e4555a7b4e1
+      internalID: 1064368478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c416869db21354692f4bbf02552475
+      internalID: 1596500942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e16ea67bc85260408307549bf18776d
+      internalID: 1936952226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb22033b4323258428420d828c5f6082
+      internalID: 4068314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4440
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06081a414ae1294fb747af51fe96570
+      internalID: -1168735553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954eb22ac4d6fd04ca70fc3ea7bd543a
+      internalID: 188295999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73cc65764e6f994a95e374159e7352c
+      internalID: -673140058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb03b16efbe4a74c9b9af3d87f4fb09
+      internalID: -632037663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 5180
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f98b13accc21454d96a2238c2e417f3
+      internalID: 605665398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8882f7fe50434fd4896b07a045c1c47f
+      internalID: -415617783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec790fb5cc2354498616c29ab01c2cb
+      internalID: 1044204727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 5735
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3882ad0c0ceb045af5d84aa6c71201
+      internalID: -726814661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d34b05789623846895735f75095859
+      internalID: 1229390518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6058816ea4376dc46a558c1d579e4fe1
+      internalID: -663265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 6290
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f764da552a999144ba775b666fe58499
+      internalID: -1019048888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 6475
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91194e3bdd62c14b899b0143bbe7777
+      internalID: 1804359381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4c50edcc70d1045b07de2a24cee5ad
+      internalID: -591296121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 6845
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21fc5abfa5ecfc4d85eb75f407f49ed
+      internalID: 449321625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 7030
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d977b0d40db3c49b12511ee3c5c617
+      internalID: -1772907941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 7215
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a211211ebe4684c815d98cf2fba8f2
+      internalID: -904431525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 7400
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd56d8347f2c76d4b88c6bf3fb4819ec
+      internalID: -978854440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 7585
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5a799750d13d74c9252f87c9a5a064
+      internalID: 529829620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 7770
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81a77db302d8f9409afc3b81884966e
+      internalID: -626226531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 7955
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fb98881d4d565419c31908ed045885
+      internalID: -1628987709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 8140
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a5664bba88b7f47a661a71f8b2cd35
+      internalID: -231799261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 8325
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae98b02a6dd5484e9c3bf6f76a53a81
+      internalID: 1037711953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 8510
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0b907e60902af4f8809189e7b54bcf
+      internalID: 1997684249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 8695
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f675af3d5d2a9c349b150ea60035621e
+      internalID: 674624667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 8880
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0906b17de892e884d9ab69f64725f979
+      internalID: -1455456789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 9065
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ab23cd4f0d11c438c609759317250f
+      internalID: -53174979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 9250
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6439959c483bd1947860201fcc785774
+      internalID: -1607152883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 9435
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e2436cdcf08545a44d2dd7a60efe4
+      internalID: -790658299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 9620
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfb87c076f1a2f44af2c47db4c3292b
+      internalID: -1572743791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 9805
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c6d6841710a44e9c94e076b0d76c8
+      internalID: -1312455496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 9990
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ea43b8e17c54d4d9312825e18ff701
+      internalID: 168448842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 10175
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86210f9f08d29094ababafc794f9e797
+      internalID: 2066413347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 10360
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2497c987304f69a45a10a052691cf66c
+      internalID: 300484022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 10545
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1866c93dca7c6934e9f3db89f257e68a
+      internalID: 832008504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 10730
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681443205817d045bc7c58153e5d6b2
+      internalID: -318921594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 10915
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4b70dfb8ceb64a8d6dfeaf0011fed
+      internalID: 1161548516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 11100
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a3b13438a09647ab7f151e1bf9593
+      internalID: -611208214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energia eolica_export-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 11285
+        y: 69
+        width: 185
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1613da1b9b02242bca973da05e8f19
+      internalID: -1155714157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      energia eolica_export-Sheet_48: -1455456789
+      energia eolica_export-Sheet_14: 836805142
+      energia eolica_export-Sheet_8: -377159467
+      energia eolica_export-Sheet_28: 605665398
+      energia eolica_export-Sheet_17: -12286703
+      energia eolica_export-Sheet_40: -978854440
+      energia eolica_export-Sheet_29: -415617783
+      energia eolica_export-Sheet_15: 1662195997
+      energia eolica_export-Sheet_31: -726814661
+      energia eolica_export-Sheet_61: -1155714157
+      energia eolica_export-Sheet_39: -904431525
+      energia eolica_export-Sheet_54: 168448842
+      energia eolica_export-Sheet_22: 1936952226
+      energia eolica_export-Sheet_24: -1168735553
+      energia eolica_export-Sheet_9: 773859972
+      energia eolica_export-Sheet_13: 1572896945
+      energia eolica_export-Sheet_1: -2011743388
+      energia eolica_export-Sheet_27: -632037663
+      energia eolica_export-Sheet_59: 1161548516
+      energia eolica_export-Sheet_4: -367182936
+      energia eolica_export-Sheet_38: -1772907941
+      energia eolica_export-Sheet_21: 1596500942
+      energia eolica_export-Sheet_37: 449321625
+      energia eolica_export-Sheet_41: 529829620
+      energia eolica_export-Sheet_32: 1229390518
+      energia eolica_export-Sheet_26: -673140058
+      energia eolica_export-Sheet_49: -53174979
+      energia eolica_export-Sheet_35: 1804359381
+      energia eolica_export-Sheet_53: -1312455496
+      energia eolica_export-Sheet_55: 2066413347
+      energia eolica_export-Sheet_60: -611208214
+      energia eolica_export-Sheet_3: 1026658219
+      energia eolica_export-Sheet_16: 1733178452
+      energia eolica_export-Sheet_20: 1064368478
+      energia eolica_export-Sheet_58: -318921594
+      energia eolica_export-Sheet_19: 1265677770
+      energia eolica_export-Sheet_46: 1997684249
+      energia eolica_export-Sheet_2: 1224211607
+      energia eolica_export-Sheet_44: -231799261
+      energia eolica_export-Sheet_23: 4068314
+      energia eolica_export-Sheet_25: 188295999
+      energia eolica_export-Sheet_33: -663265
+      energia eolica_export-Sheet_11: 1951402372
+      energia eolica_export-Sheet_43: -1628987709
+      energia eolica_export-Sheet_52: -1572743791
+      energia eolica_export-Sheet_45: 1037711953
+      energia eolica_export-Sheet_56: 300484022
+      energia eolica_export-Sheet_7: -1508545427
+      energia eolica_export-Sheet_12: -910182656
+      energia eolica_export-Sheet_0: -63120001
+      energia eolica_export-Sheet_10: -262783819
+      energia eolica_export-Sheet_57: 832008504
+      energia eolica_export-Sheet_18: 1704605741
+      energia eolica_export-Sheet_30: 1044204727
+      energia eolica_export-Sheet_42: -626226531
+      energia eolica_export-Sheet_50: -1607152883
+      energia eolica_export-Sheet_6: -1804710930
+      energia eolica_export-Sheet_51: -790658299
+      energia eolica_export-Sheet_5: 2102098969
+      energia eolica_export-Sheet_34: -1019048888
+      energia eolica_export-Sheet_47: 674624667
+      energia eolica_export-Sheet_36: -591296121
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
